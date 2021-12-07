@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**GregLaBelette/GregLaBelette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi!
+<br>
+<br>
+I'm a former live sound engineer & projects manager in a big audio rental company. I still like music a lot, but had gotten so far of it in my job and it didn't make sense anymore 😔. 
 
-Here are some ideas to get you started:
+During the first lockdown I discovered web developement and got really interrested. Like if my brain was waking up again after several years of sleep. it reminded me how much I like learning. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have just finished Le Wagon Paris's Ruby On Rails fullstack Bootcamp (in December 2021).
+
+<a href='https://github.com/GregLaBelette/PregWheel'>PregWheel</a> is my first shot at Vanilla JS in march 2021, developed with my (patient 💕) midwife of a spouse. 
+
+<hr>
+🔭 I’m currently working on:
+ <br>
+ <br>
+ - Making a simple portfolio, <br>
+ - Practising Ruby and Rails by finishing two projects started @Le wagon: Memomix & MadPigeons. <br>
+ - Finishing a first ExpressJS project called 'The Pedal Shop'. Cool discovery of Express & MongoDB 👍🏻 <br>
+ - Seeking for a first dev experience in the great big world 😊 <br>
+
+<hr>
+<br>
+
+📫 How to reach me:
+
++336 07 67 14 33
+<br>
+gregoire.vallette@gmail.com
+
