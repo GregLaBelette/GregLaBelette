@@ -9,7 +9,7 @@ During the first lockdown I discovered web developement and got really interrest
 I have just finished Le Wagon Paris's Ruby On Rails fullstack Bootcamp (in December 2021).
 
 <a href='https://github.com/GregLaBelette/PregWheel'>PregWheel</a> is my first shot at Vanilla JS in march 2021, developed with my (patient 💕) midwife of a spouse.<br>
-<a href='https://gregoirevallette.com'>gregoirevallette.com</a> is a little online resume.
+<a href='https://gregoirevallette.com'>gregoirevallette.com</a> is a little online resume and portfolio.
 
 <hr>
 🔭 I’m currently working on:
