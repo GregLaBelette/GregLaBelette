@@ -15,7 +15,6 @@ I have just finished Le Wagon Paris's Ruby On Rails fullstack Bootcamp (in Decem
 🔭 I’m currently working on:
  <br>
  <br>
- - Making a simple portfolio, <br>
  - Practising Ruby and Rails by finishing two projects started @Le wagon: Memomix & MadPigeons. <br>
  - Finishing a first ExpressJS project called 'The Pedal Shop'. Cool discovery of Express & MongoDB 👍🏻 <br>
  - Seeking for a first dev experience in the great big world 😊 <br>
