@@ -6,21 +6,10 @@ I'm a former live sound engineer & projects manager in a big audio rental compan
 
 During the first lockdown I discovered web developement and got really interrested. Like if my brain was waking up again after several years of sleep. it reminded me how much I like learning. 
 
-I have just finished Le Wagon Paris's Ruby On Rails fullstack Bootcamp (in December 2021).
+I have finished Le Wagon Paris's Ruby On Rails fullstack Bootcamp in December 2021 and joiend <a href='https://github.com/pennylane-hq'>Pennylane</a> as a junior software engineer (Feb 2022).
 
 <a href='https://github.com/GregLaBelette/PregWheel'>PregWheel</a> is my first shot at Vanilla JS in march 2021, developed with my (patient 💕) midwife of a spouse.<br>
 <a href='https://gregoirevallette.com'>gregoirevallette.com</a> is a little online resume and portfolio.
-
-<hr>
-🔭 I’m currently working on:
- <br>
- <br>
- - GoRails!!! Love it, currently doing the module about testing. <br>
- - Job interviews and tech tests! 😊 <br>
- - Finishing a first ExpressJS project called 'The Pedal Shop'. Cool discovery of Express & MongoDB 👍🏻 <br>
-
-<hr>
-<br>
 
 📫 How to reach me:
 
