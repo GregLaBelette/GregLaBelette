@@ -2,7 +2,7 @@
 Hi!
 <br>
 <br>
-I'm a former live sound engineer & projects manager in a big audio rental company. I still like music a lot, but drifted so far of it in my job that it didn't make sense anymore 😔. 
+I'm a former live sound engineer & projects manager in a big audio rental company. I still like music a lot, but my job drifted so far from it that it didn't make sense anymore 😔. 
 
 During the first lockdown I discovered web developement and got crazy interrested. Like if my brain was waking up again after several years of sleep. it reminded me how much I like learning. 
 
